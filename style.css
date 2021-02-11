@@ -2062,7 +2062,8 @@ body.app_version .bootstrap-select .btn-light:hover{
     font-size: 18px;
     border: 1px solid #ffffff !important;
     color: #ffffff;
-    background-color: #222222;
+    background: rgb(90,210,102);
+    background: linear-gradient(180deg, rgba(90,210,102,1) 0%, rgba(38,180,61,1) 0%);
 }
 
 .btn-dark {
